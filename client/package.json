@@ -46,7 +46,7 @@
 		"redux-persist": "6.0.0",
 		"vite-plugin-svgr": "^4.2.0"
 	},
-	"unusedDepencies": {
+	"unusedDependencies": {
 		"@solana/wallet-adapter-base": "0.9.25",
 		"@solana/wallet-adapter-material-ui": "0.16.35",
 		"@solana/wallet-adapter-react": "0.15.37",
